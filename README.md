@@ -1,6 +1,6 @@
 # Notify Helper
 
-send a notify remind to write a article by Line Notify
+send a notify remind to do something by Line Notify
 
 ***
 
