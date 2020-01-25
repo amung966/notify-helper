@@ -1,0 +1,10 @@
+[Trello]
+;trello token and key
+;register key and token https://trello.com/app-key
+key = key
+token = token
+border = border_id
+
+[Line]
+;register token https://notify-bot.line.me/my/
+line_token = your token
