@@ -8,7 +8,7 @@ send a notify remind to write a article by Line Notify
 
 ```
 cp config.ini.example config.ini
-edit config.ini
+vim config.ini
 ```
 
 register trello token and line token
