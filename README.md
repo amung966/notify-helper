@@ -1,10 +1,10 @@
-#Notify Helper
+# Notify Helper
 
 send a notify remind to write a article by Line Notify
 
 ***
 
-#How to use
+# How to use
 
 ```
 cp config.ini.example config.ini
